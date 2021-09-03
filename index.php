@@ -7,5 +7,6 @@
 <html>
 <?php include('templates/header.php') ?>
 
-</body>
+<?php include('templates/footer.php') ?>
+
 </html>
